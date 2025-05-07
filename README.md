@@ -24,8 +24,7 @@
 - **Retrofit** — для выполнения сетевых запросов к серверу.
 - **OkHttp Interceptor** — для автоматического добавления токена авторизации в заголовки HTTP-запросов.
 - **Preferences DataStore** — для безопасного хранения токена авторизации.
-- **Поиск по сохранённым данным** — осуществляется без дополнительных сетевых запросов для повышения производительности.
-
+- **ViewModel** — для управления состояниями экрана и бизнес-логикой(для каждого экрана своя viewModel).
 ## Текущий UI приложения
 ![Image alt](https://github.com/Speedhunte/MyApp-with-Retrofit/blob/master/screens.PNG)
 ![Image alt](https://github.com/Speedhunte/MyApp-with-Retrofit/blob/master/screens_2.PNG)
